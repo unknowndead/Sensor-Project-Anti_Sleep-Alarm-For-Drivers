@@ -1,4 +1,4 @@
-[11:10 PM, 5/6/2023] Sanika: #define Relay 13
+#define Relay 13
 #define buzzer A0
 static const int sensorPin = 10;                    // sensor input pin 
 int SensorStatePrevious = LOW;                      // previousstate of the sensor
